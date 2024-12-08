@@ -1,0 +1,5 @@
+number_of_completed_homework = 12
+number_of_hours_spend = 1.5
+name = 'python course'
+time_spend_on_one_lesson = 0.125
+print (number_of_completed_homework, 'всего было задач', number_of_hours_spend,'время которое было затрачено', 'на', name, time_spend_on_one_lesson, 'среднее время выполнения одного задания')
